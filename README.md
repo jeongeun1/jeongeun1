@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JAVA%20Starter%20)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeun1)&title_color=](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+![Spring](https://shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
